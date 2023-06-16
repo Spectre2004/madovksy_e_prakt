@@ -1,0 +1,15 @@
+.nav{
+    margin: 0 auto;
+    width: 100%;
+}
+.nav-link{
+    width: 33.3333%;
+}
+.nav-link span{
+    font-size: 15px;
+}
+.nav-link img{
+    width: 18px;
+    height: 18px;
+
+}

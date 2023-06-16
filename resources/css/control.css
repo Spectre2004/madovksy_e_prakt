@@ -1,0 +1,35 @@
+.flex-row{
+    justify-content:space-between;
+    width:250px;
+    margin: 0 0 5px 0;
+    border-bottom: 1px solid #c3c3c3;
+}
+#grupp{
+    color: silver;
+}
+#p-export{
+    font-weight: bold;
+}
+.collaps{
+    width: 360px;
+    margin:90px 0 0;
+    text-align: center;
+}
+input{
+    width: 300px;
+    height: 100px;
+    text-align: left;
+}
+h1{
+    font-weight: bold;
+}
+#title-date{
+    justify-content: center;
+    
+}
+#date-img{
+    margin: 5px 10px 0 ;
+}
+.content{
+    justify-content: space-evenly;
+}
